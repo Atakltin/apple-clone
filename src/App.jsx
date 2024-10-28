@@ -12,12 +12,12 @@ import SectionFour from './components/SectionFour/SectionFour'
 import SectionFive from './components/SectionFive/SectionFive'
 import SectionSix from './components/SectionSix/SectionSix'
 import YoutubeVideos from './components/YoutubeVideos/YoutubeVideos'
-import Iphone from './components/Iphone/Iphone'
+// import Iphone from './components/Iphone/Iphone'
 function App() {
   return (
     <>
       <Header />
-      <Iphone/>
+      {/* <Iphone/> */}
       <Alert />
       <SectionOne />
       <SectionTwo />
